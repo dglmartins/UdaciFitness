@@ -4,7 +4,7 @@ function entries (state = {}, action) {
   switch (action.type) {
     case RECEIVE_ENTRIES:
       return {
-        ..state,
+        ...state,
         ...action.entries
       }
     case ADD_ENTRY:
