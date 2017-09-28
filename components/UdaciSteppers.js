@@ -51,8 +51,8 @@ const styles = StyleSheet.create({
     borderWidth: 1,
     borderRadius: 3,
     padding: 5,
-    paddingLeft: 25,
-    paddingRight: 25
+    paddingLeft: 15,
+    paddingRight: 15
   },
   metricCounter: {
     width: 85,

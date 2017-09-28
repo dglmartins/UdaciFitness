@@ -146,8 +146,8 @@ const styles = StyleSheet.create({
     backgroundColor: white
   },
   row: {
-    flexDirection: 'row',
     flex: 1,
+    flexDirection: 'row',
     alignItems: 'center'
   },
   iosSubmitBtn: {
