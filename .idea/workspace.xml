@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff33d958-725d-4d9b-8ae1-87543fae2d6d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/UdaciSteppers.js" afterPath="$PROJECT_DIR$/components/UdaciSteppers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/components/DateHeader.js" afterPath="$PROJECT_DIR$/components/DateHeader.js" />
     </list>
     <ignored path="UdaciFitness.iws" />
     <ignored path=".idea/workspace.xml" />
